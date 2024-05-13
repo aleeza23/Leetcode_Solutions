@@ -13,10 +13,8 @@ Welcome to my LeetCode Solutions repository! 🚀 Experience the magic of learni
 
 | Problem | Solution | Difficulty | Language |
 |---------|----------|------------|----------|
-| Problem 1 | [Solution](link) | Easy | Python |
-| Problem 2 | [Solution](link) | Medium | Java |
-| Problem 3 | [Solution](link) | Hard | C++ |
-
+| Problem 1 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0217-contains-duplicate) | Easy | Python |
+| Problem 2 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0242-valid-anagram) | Easy | Python |
 
 
 
