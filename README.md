@@ -9,7 +9,6 @@ Welcome to my LeetCode Solutions repository! 🚀 Experience the magic of learni
 
 - [LC_Target Sum](https://youtu.be/GMF2KhwG_w0?si=0SfY055FyNZvkNv8)
 - [LC_Word Search 2](https://youtu.be/x7A0Mu-4ZOg?si=G3iTDcJG38-wq6MI)
-
  
 
 ## Array and Hashing
@@ -18,6 +17,8 @@ Welcome to my LeetCode Solutions repository! 🚀 Experience the magic of learni
 |---------|----------|------------|----------|
 | Problem 1 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0217-contains-duplicate) | Easy | Python |
 | Problem 2 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0242-valid-anagram) | Easy | Python |
+| Problem 3 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0001-two-sum) | Easy | Python |
+
 
 
 
