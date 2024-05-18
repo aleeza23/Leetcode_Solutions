@@ -21,6 +21,8 @@ Welcome to my LeetCode Solutions repository! 🚀 Experience the magic of learni
 | Problem 4 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0049-group-anagrams) | Medium | Python |
 | Problem 5 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0347-top-k-frequent-elements) | Medium | Python |
 | Problem 6 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0238-product-of-array-except-self) | Medium | Python |
+| Problem 7 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0036-valid-sudoku) | Medium | Python |
+
 
 
 
