@@ -22,6 +22,9 @@ Welcome to my LeetCode Solutions repository! 🚀 Experience the magic of learni
 | Problem 5 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0347-top-k-frequent-elements) | Medium | Python |
 | Problem 6 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0238-product-of-array-except-self) | Medium | Python |
 | Problem 7 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0036-valid-sudoku) | Medium | Python |
+| Problem 8 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0128-longest-consecutive-sequence) | Medium | Python |
+
+
 
 
 
