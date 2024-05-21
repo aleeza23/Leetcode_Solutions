@@ -29,7 +29,7 @@ Welcome to my LeetCode Solutions repository! 🚀 Experience the magic of learni
 | Problem | Solution | Difficulty | Language |
 |---------|----------|------------|----------|
 | Problem 1 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0125-valid-palindrome) | Easy | Python |
-| Problem 2 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) | Easy | Python |
+| Problem 2 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) | Medium | Python |
 
 
 
