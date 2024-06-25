@@ -34,6 +34,16 @@ Welcome to my LeetCode Solutions repository! 🚀 Experience the magic of learni
 | Problem 4 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0011-container-with-most-water) | Medium | Python |
 | Problem 5 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0042-trapping-rain-water) | Hard | Python |
 
+## Sliding Window 
+
+| Problem | Solution | Difficulty | Language |
+|---------|----------|------------|----------|
+| Problem 1 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0121-best-time-to-buy-and-sell-stock) | Easy | Python |
+| Problem 2 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0003-longest-substring-without-repeating-characters) | Medium | Python |
+| Problem 3 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0567-permutation-in-string) | Medium | Python |
+| Problem 4 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0239-sliding-window-maximum) | Hard | Python |
+
+
 
 
 
