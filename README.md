@@ -45,6 +45,14 @@ Welcome to my LeetCode Solutions repository! 🚀 Experience the magic of learni
 
 ## Linked List
 
+| Problem | Solution | Difficulty | Language |
+|---------|----------|------------|----------|
+| Problem 1 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0083-remove-duplicates-from-sorted-list) | Easy | Python |
+| Problem 2 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0206-reverse-linked-list) | Easy | Python |
+| Problem 3 | [Solution](https://github.com/aleeza23/Python_Code/tree/master/0203-remove-linked-list-elements) | Easy | Python |
+
+
+
 
 
 
